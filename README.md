@@ -2,8 +2,7 @@ Conflict line;
 
 lkjhgflkdgbldfg;
 dsfgkjfdgblkfd;
-dsgfd
-dsfsdff;
 
-cange;
+jhgflfdsgfd
 
+New README file
