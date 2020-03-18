@@ -1,4 +1,5 @@
-hgfdlkjfgdfg;
+Conflict line;
+
 lkjhgflkdgbldfg;
 dsfgkjfdgblkfd;
 jhgflfdsgfd
