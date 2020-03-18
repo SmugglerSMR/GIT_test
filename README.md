@@ -2,8 +2,8 @@ Conflict line;
 
 lkjhgflkdgbldfg;
 dsfgkjfdgblkfd;
-jhgflfdsgfd
+dsgfd
+dsfsdff;
 
-
-dsgffds;
+cange;
 
