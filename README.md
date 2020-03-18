@@ -1,9 +1,8 @@
-hgfdlkjfgdfg;
+Conflict line;
+
 lkjhgflkdgbldfg;
 dsfgkjfdgblkfd;
+
 jhgflfdsgfd
 
 New README file
-
-dsgffds;
-
